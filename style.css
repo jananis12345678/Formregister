@@ -1,0 +1,71 @@
+body
+{
+    background:red;
+}
+#headings
+{
+    width:600px;
+    height:75px;
+    background:blueviolet;
+    margin: auto;
+    text-align:center;
+    color: hotpink;
+    padding-top: 20px;
+    border-top-right-radius:75% ;
+    border-bottom-left-radius: 70%;
+    border: 3px solid red;
+    border-color:red black olive orchid;
+}
+form
+{
+background: violet;
+height:350ox;
+width:550px;
+margin:auto;
+margin-top: 50px; 
+text-align: center;
+}
+#sucess
+{
+background:skyblue;
+text-align: center;
+margin:auto;
+padding-top:20px;
+}
+
+body
+{
+    background:green;
+}
+#headings
+{
+    width:600px;
+    height:75px;
+    background:skyblue;
+    margin: auto;
+    text-align:center;
+    color: yellow;
+    padding-top: 20px;
+    border-top-right-radius:75% ;
+    border-bottom-left-radius: 70%;
+    border: 3px solid red;
+    border-color:red black orange green;
+}
+form
+{
+background: violet;
+height:350ox;
+width:550px;
+margin:auto;
+margin-top: 50px; 
+text-align: center;
+}
+#sucess
+{
+background:skyblue;
+text-align: center;
+margin:auto;
+padding-top:20px;
+}
+
+
